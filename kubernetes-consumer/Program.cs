@@ -1,5 +1,5 @@
 ﻿// URL del endpoint
-string url = "http://localhost:80/test";
+string url = "http://localhost:80/fibonacci";
 
 // Número de tareas a crear
 int numberOfTasks = 10;
